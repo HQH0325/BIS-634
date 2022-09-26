@@ -54,4 +54,6 @@ Using the function I wrote above, I got the dates of two comparing states. Then 
 
 ### Exercise 4
 The DescriptorName associated with DescriptorUI D007154 is "Immune System Diseases." The DescriptorUI associated with DescriptorName "Nervous System Diseases" is "D009422."
+The DescriptorNames of items in the MeSH hierarchy that are descendants of both "Nervous System Diseases" and D007154 is in the code. 
+
 The above search finds diseases that are associated with both Immune System Diseases and Nervous System Diseases.
